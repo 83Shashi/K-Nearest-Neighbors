@@ -1,4 +1,3 @@
-#Logistic Regression(copy data preprocessing template)
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
